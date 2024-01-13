@@ -8,6 +8,7 @@ packages = [{include = "w03_aovivo"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pre-commit = "^3.6.0"
 
 
 [build-system]
